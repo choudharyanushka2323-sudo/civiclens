@@ -67,7 +67,7 @@ If a new photo matches an open issue of the same category within 75 m, the app f
 Requires **Node.js 18+**.
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/choudharyanushka2323-sudo/civiclens.git>
 cd civiclens
 npm run install:all
 cp server/.env.example server/.env
